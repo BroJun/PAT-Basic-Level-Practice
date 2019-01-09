@@ -6,4 +6,4 @@ while N > 1:
   else:
     N = (3 * N + 1) / 2
   i += 1
-print( i )
+print(i)
