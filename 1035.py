@@ -12,8 +12,8 @@ def print_list(a_list):
 	return 0
 	
 def Insertion_onestep(a_list):
-	p = 0;
-	flag = 0;
+	p = 0
+	flag = 0
 	while p < len(a_list)-1:
 		if a_list[p+1]<a_list[p]:
 			flag = 1			

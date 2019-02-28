@@ -19,4 +19,3 @@ n_B,n_S,n_G = chai(num)
 str_G = str(G_num(n_G))
 if str_G == 'None':str_G=''
 print('B'*n_B+'S'*n_S+str_G)
-
